@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/shivamkanala-45/Leetcode/tree/master/0120-triangle) |
 | [0229-majority-element-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0229-majority-element-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/shivamkanala-45/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0905-sort-array-by-parity](https://github.com/shivamkanala-45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1049-last-stone-weight-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1288-remove-covered-intervals](https://github.com/shivamkanala-45/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/shivamkanala-45/Leetcode/tree/master/0120-triangle) |
+| [0416-partition-equal-subset-sum](https://github.com/shivamkanala-45/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/1049-last-stone-weight-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivamkanala-45/Leetcode/tree/master/3620-network-recovery-pathways) |
