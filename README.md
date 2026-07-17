@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/shivamkanala-45/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/0542-01-matrix) |
+| [0860-lemonade-change](https://github.com/shivamkanala-45/Leetcode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/shivamkanala-45/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1020-number-of-enclaves](https://github.com/shivamkanala-45/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/shivamkanala-45/Leetcode/tree/master/0860-lemonade-change) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
