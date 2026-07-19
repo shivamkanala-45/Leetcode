@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0229-majority-element-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/shivamkanala-45/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -12,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
