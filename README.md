@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkanala-45/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkanala-45/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivamkanala-45/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkanala-45/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/0542-01-matrix) |
 | [1049-last-stone-weight-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivamkanala-45/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/shivamkanala-45/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
