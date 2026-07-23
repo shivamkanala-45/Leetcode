@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkanala-45/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1020-number-of-enclaves](https://github.com/shivamkanala-45/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamkanala-45/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/shivamkanala-45/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/shivamkanala-45/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/shivamkanala-45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shivamkanala-45/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/shivamkanala-45/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shivamkanala-45/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shivamkanala-45/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamkanala-45/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivamkanala-45/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/shivamkanala-45/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/shivamkanala-45/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamkanala-45/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
