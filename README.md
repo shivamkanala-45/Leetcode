@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/shivamkanala-45/Leetcode/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivamkanala-45/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivamkanala-45/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shivamkanala-45/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shivamkanala-45/Leetcode/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/shivamkanala-45/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivamkanala-45/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/shivamkanala-45/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shivamkanala-45/Leetcode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/shivamkanala-45/Leetcode/tree/master/0542-01-matrix) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivamkanala-45/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/shivamkanala-45/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/shivamkanala-45/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/shivamkanala-45/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivamkanala-45/Leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/shivamkanala-45/Leetcode/tree/master/0494-target-sum) |
 ## Segment Tree
 |  |
