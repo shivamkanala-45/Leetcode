@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivamkanala-45/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/shivamkanala-45/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivamkanala-45/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/shivamkanala-45/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivamkanala-45/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
