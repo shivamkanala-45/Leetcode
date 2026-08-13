@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/shivamkanala-45/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shivamkanala-45/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shivamkanala-45/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shivamkanala-45/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkanala-45/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkanala-45/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0860-lemonade-change](https://github.com/shivamkanala-45/Leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/shivamkanala-45/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/shivamkanala-45/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivamkanala-45/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shivamkanala-45/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivamkanala-45/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamkanala-45/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/shivamkanala-45/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shivamkanala-45/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivamkanala-45/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivamkanala-45/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/shivamkanala-45/Leetcode/tree/master/0877-stone-game) |
 | [1049-last-stone-weight-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -408,4 +412,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/shivamkanala-45/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
