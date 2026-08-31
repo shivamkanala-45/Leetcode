@@ -478,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivamkanala-45/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shivamkanala-45/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
