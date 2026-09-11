@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamkanala-45/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivamkanala-45/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamkanala-45/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shivamkanala-45/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivamkanala-45/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shivamkanala-45/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shivamkanala-45/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivamkanala-45/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamkanala-45/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shivamkanala-45/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamkanala-45/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shivamkanala-45/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shivamkanala-45/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/shivamkanala-45/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shivamkanala-45/Leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivamkanala-45/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
